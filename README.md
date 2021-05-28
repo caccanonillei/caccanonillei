@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @caccanonillei
+- 👀 I’m interested in AI programming
+- 🌱 I’m currently learning JavaScript, NodeJS and Python
